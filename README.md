@@ -1,3 +1,6 @@
+# Team Members
+## Aditya Samir Vaidya[G01501989], Divyanshi Manojkumar Detroja[G01522554], Aahan Jain[G015022443]
+
 # 🛡️JavaScript Security Auditor
 
 An AI-powered security scanner for JavaScript and TypeScript code. It uses regex to find suspicious patterns, then asks an AI to actually verify if they're real vulnerabilities or just false positives. Way better than those tools that scream at you for every `eval()` even when it's perfectly safe.
